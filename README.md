@@ -1,1 +1,0 @@
-# American-Sign-Language-D.L.-Model
