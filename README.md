@@ -9,4 +9,4 @@ Training: https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language
 Testing: https://www.kaggle.com/datasets/danrasband/asl-alphabet-test/data
 
 # Model Archetecture:
-Our model was a fine tuned VGG19 model. We placed six layers at the output of the VGG19 model for feature extraction. More details on the archetecture of the model can be found in the slides uploaded to the repository.
+Our model was a fine tuned VGG19 model. We placed six layers at the output of the VGG19 model for feature extraction. More details on the archetecture of the model can be found in the report uploaded to the repository.
